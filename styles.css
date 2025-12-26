@@ -1,0 +1,34 @@
+body{
+ font-family:Arial, sans-serif;
+  background-color:#f9f9f9;
+  margin:0;
+  padding:0;
+}
+h1{
+  text-align:center;
+  color:#333;
+}
+.tagline{
+  text-align:center;
+  color:#777;
+  font-style:Italic;
+}
+img{
+  width:100%;
+  border-radius:10px;
+  margin:20px 0;
+}
+h2{
+  color:#444;
+  border-bottom:2px solid#eee;
+  padding-button:5px;
+}
+ul,ol{
+  line-height:1.6;
+}
+footer{
+  text-align:center;
+  margin-top:30px;
+  font-size:0.9em;
+  color:#999;
+}
