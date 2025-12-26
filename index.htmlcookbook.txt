@@ -1,0 +1,27 @@
+<h1>LaRado's Cookbook</h1>
+
+<section>
+    <h2>Filled with new and innovative selections of recipes</h2> 
+    <p><b>TASTY</b> applications with mouth watering results.</p> 
+    <p>Cooking is my passion alongside tasting.</p>
+</section>
+<section>
+    <h2>Turkey Omelette Recipe</h2>
+<!-- This is Larado's best selling recipes -->
+    <h3>Ingredients</h3>
+<ul>
+     <li>6 Turkey Slices</li>
+     <li>2 Eggs</li>
+     <li>1 Onion</li>
+     <li>1 Red bell pepper</li>
+     <li>1/4 cup of Milk</li>
+ </ul>
+     <h3>Cooking Instructions</h3>
+<ol>
+      <li>Heat skillet, to medium.</li>
+      <li>blend together all ingredients in a bowl</li>
+      <li>cook low. Flipping until brown.</li>
+      <li>serve to taste with <br> cheese, <br>salt,
+pepper.</li>
+</section>
+
